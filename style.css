@@ -1,0 +1,17 @@
+/* Navigation Bar Style */
+.navbar {
+  float: right;
+  font-family: "Anton", sans-serif;
+  font-size: 200%;
+}
+.navbar a {
+  color: black;
+}
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navbar a.active {
+  background-color: #4CAF50;
+  color: rgb(223, 230, 226);
+}
